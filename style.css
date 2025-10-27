@@ -251,6 +251,10 @@
             font-size: 1em;
         }
 
+        .contact h2{
+            padding: 15px;
+        }
+
         .contact button {
             transition: 0.3s;
             font-size: 16px;
@@ -274,6 +278,7 @@
             font-size: 20px;
             color:#2181ff; 
             font-weight:bold;
+            padding: 10px;
         }
 
         .contact1 a:active {
